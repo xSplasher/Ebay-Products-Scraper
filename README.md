@@ -9,4 +9,4 @@ the only downside to this is that google colab will "turn off" after 8hours, so 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PGxdWCTLlus3mldUawrsdkiF5z8jf-sN#)
 
 
-this script is very useful if you're doing product research or you if want to know what are the best selling products in a category.
+this script is very useful if you're doing product research or you if want to know what are the best selling products in a specific category.
