@@ -1,4 +1,4 @@
-give this script an ebay category link (or a subcategory) and it will scrape all products that were sold within it.
+give this script an ebay category link (or a subcategory) and it will scrape all products that are selling well or sold at least once within it.
 
 the output is a csv file containing these columns: Product Title, Price, Sold (how many times it was sold), Product link
 
